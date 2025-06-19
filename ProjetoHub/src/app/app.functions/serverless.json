@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "salvarPedido": {
+      "file": "salvarPedido.js",
+      "secrets": ["HUBSPOT_PRIVATE_APP_TOKEN"]
+    }
+  }
+}
